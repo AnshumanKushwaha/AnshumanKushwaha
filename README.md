@@ -11,9 +11,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshumankushwaha" alt="anshumankushwaha" /></a> </p>
 <hr>
 
-- 💼My own profile webpage **Ak Dev**
 
-- 🌱 I’m currently learning **Python, C++**
+- 🌱 I’m currently learning **Python, C++,AI**
 
 
 - 💬 Ask me about **Frontend development, JavaScript**
@@ -27,11 +26,9 @@
 <h1>Meet Anshuman Kushwaha</h1>
 <h3>A Passionate Young developer</h3>
 <p>
-Anshuman Kushwaha, a young developer from India. Python and web dev enthusiast. Graphic designing and academics. Also a JavaScript learner.
+Anshuman Kushwaha, a young developer from Uttar Pradesh,India. Python and web dev enthusiast. Graphic designing and academics. Also a JavaScript learner.
 </p>
-<p>
-Anshuman is not just a developer; he's a proactive creator. He maintains his own profile webpage, "Ak Dev," where he showcases his projects and shares insights through his articles on various programming topics. His GitHub repository is a testament to his creativity and expertise.
-</p>
+
 <p>
 Aside from his technical prowess, Anshuman is approachable and eager to share his knowledge. He welcomes inquiries about frontend development and JavaScript, offering assistance and guidance to fellow enthusiasts. His dedication to learning and teaching reflects a maturity beyond his years.
 </p>
